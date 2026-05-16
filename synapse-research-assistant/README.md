@@ -27,5 +27,5 @@ An AI-powered research assistant built with LangGraph, LangChain, and Groq.
 ## Running the App
 
 ```bash
-streamlit run app.py
+streamlit run main.py
 ```
